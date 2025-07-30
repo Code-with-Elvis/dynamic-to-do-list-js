@@ -30,14 +30,14 @@ dynamic-to-do-list-js/
 
 Potential features to add:
 
-- [ ] Task editing functionality
-- [ ] Task completion/checking
-- [ ] Local storage to persist tasks
-- [ ] Task categories or tags
-- [ ] Drag and drop reordering
-- [ ] Due dates and reminders
-- [ ] Dark mode toggle
-- [ ] Export/import functionality
+- [x] Task editing functionality
+- [x] Task completion/checking
+- [x] Local storage to persist tasks
+- [x] Task categories or tags
+- [x] Drag and drop reordering
+- [x] Due dates and reminders
+- [x] Dark mode toggle
+- [x] Export/import functionality
 
 ## Author
 
